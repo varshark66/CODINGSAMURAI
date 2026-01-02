@@ -1,0 +1,29 @@
+# ATM Banking System – Java Console Application
+
+##  Project Overview
+This project is a console-based ATM Banking System developed using Java as part of the Java Development Internship at Coding Samurai.  
+The application simulates basic ATM operations with a focus on clean logic, user interaction, and structured programming.
+
+##  Features
+- Check account balance
+- Deposit money securely
+- Withdraw money with balance validation
+- Menu-driven interface for better user experience
+- Graceful exit handling
+
+##  Technologies Used
+- Java (Core Java)
+- Scanner class for user input
+- Conditional statements and loops
+- Modular method-based design
+
+##  Concepts Implemented
+- Variables and data types
+- Methods and access modifiers
+- Switch-case control structure
+- Input validation and error handling
+
+##  How to Run the Program
+1. Clone or download the repository
+2. Open the project in VS Code / IntelliJ / any Java-supported IDE
+3. Compile the program:
