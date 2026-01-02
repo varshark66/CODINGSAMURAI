@@ -1,0 +1,27 @@
+# Library Management System – Java OOP Project
+
+##  Project Overview
+The Library Management System is a Java-based console application created during the Coding Samurai Java Development Internship.  
+It demonstrates the use of Object-Oriented Programming (OOP) concepts to manage library operations efficiently.
+
+## Features
+- View available and issued books
+- Borrow books with availability check
+- Return previously issued books
+- Simple and intuitive menu system
+
+## Technologies Used
+- Java (Core Java)
+- Object-Oriented Programming (OOP)
+- Arrays for data storage
+- Scanner class for user input
+
+##  OOP Concepts Applied
+- Classes and objects
+- Encapsulation
+- Constructors
+- Method abstraction
+
+##  How to Run the Program
+1. Open the project folder
+2. Compile the program:
